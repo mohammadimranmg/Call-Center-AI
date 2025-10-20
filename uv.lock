@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.13"
 
 [[package]]
@@ -371,7 +371,7 @@ wheels = [
 
 [[package]]
 name = "azure-storage-queue"
-version = "12.12.0"
+version = "12.14.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "azure-core" },
@@ -379,9 +379,9 @@ dependencies = [
     { name = "isodate" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/6c/b3/45bae4589fb9d1be0dc34db9422cb7c042a8290e015c59406cefdb22f93c/azure_storage_queue-12.12.0.tar.gz", hash = "sha256:baf2f1bc82b7d4f5291922c3ea4f23ce2243e942dbe7494fca1782290b37f1e4", size = 189869, upload-time = "2024-09-17T21:25:28.926Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/64/67/8e3a79be52bf084a8b6419db65c448f7766e28a3919b93bd08aaeb09c80b/azure_storage_queue-12.14.0.tar.gz", hash = "sha256:58884ceb6c10a85dcd22e389ade32be3a6f36ec587c42e4efc064efc3ef25743", size = 192321, upload-time = "2025-10-15T14:06:00.187Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/39/62/a629654f0e455f2e4d3bec4be75bfeab0b027dc7ca72792961bac8d5bfac/azure_storage_queue-12.12.0-py3-none-any.whl", hash = "sha256:9305f724e0df6a93e3645bf075b5a7e3fc0a1eb1ee47c85912c7aff6b6fd490d", size = 182385, upload-time = "2024-09-17T21:25:31.205Z" },
+    { url = "https://files.pythonhosted.org/packages/f4/d7/472299a1c6c9c52f9d3eacebd28465b883b06928c68449a135cc96df70d6/azure_storage_queue-12.14.0-py3-none-any.whl", hash = "sha256:dc9c4ed022df4f8405aef8b90ec5fa3b6f4a2d5e8a0276c09b2c2c341a581f3f", size = 184340, upload-time = "2025-10-15T14:06:01.716Z" },
 ]
 
 [[package]]
